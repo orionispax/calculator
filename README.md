@@ -3,6 +3,8 @@ Calculator.js: a node.js Demonstration Project
 An example node.js project, including tests with mocha, that behaves like
 a pocket calculator.
 
+[![Build Status](https://kaloontung.visualstudio.com/AzureDevOpsLabs/_apis/build/status/orionispax.calculator?branchName=master)](https://kaloontung.visualstudio.com/AzureDevOpsLabs/_build/latest?definitionId=2&branchName=master)
+
 The project contains a simple node.js application that exposes REST APIs
 to perform arithmetic on integers, and provides a test suite with mocha
 and chai.  The `mocha-junit-reporters` package is included to provide XML
